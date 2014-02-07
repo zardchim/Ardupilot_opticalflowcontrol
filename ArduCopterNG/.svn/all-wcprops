@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG
+END
+Functions.pde
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Functions.pde
+END
+ArduUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/ArduUser.h
+END
+GCS.pde
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/GCS.pde
+END
+Log.pde
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Log.pde
+END
+Heli.pde
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Heli.pde
+END
+Attitude.pde
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Attitude.pde
+END
+Motors.pde
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Motors.pde
+END
+Mixer.pde
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Mixer.pde
+END
+System.pde
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/System.pde
+END
+Debug.pde
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Debug.pde
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/README
+END
+EEPROM.pde
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/EEPROM.pde
+END
+Arducopter.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Arducopter.h
+END
+Mouse.pde
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Mouse.pde
+END
+Sensors.pde
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Sensors.pde
+END
+ArducopterNG.pde
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/ArducopterNG.pde
+END
+Radio.pde
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Radio.pde
+END
+Navigation.pde
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Navigation.pde
+END
+Heli.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Heli.h
+END
+DCM.pde
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/DCM.pde
+END
+Events.pde
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Events.pde
+END
+CLI.pde
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/CLI.pde
+END
+Mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1563/branches/TraditionalHeli/mouse_for_pos_hold/ArduCopterNG/Mouse.h
+END
